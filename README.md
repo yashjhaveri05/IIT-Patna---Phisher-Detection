@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the implementation of various baselines for detecting illicit activites in blockchain transaction networks.
+This repository contains the implementation of various methods in the literature of ethereum illicit activities
 
 ## Data
 We conducted our experiments on a public dataset containing data about phishers in ethereum transactions.
