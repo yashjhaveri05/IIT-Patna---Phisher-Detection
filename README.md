@@ -1,2 +1,8 @@
-# IIT-Patna---Phisher-Detection
-Contains the code of baseline papers on crypto currency phisher detection done during the internship at IIT Patna
+## Overview
+This repository contains the implementation of various baselines for detecting illicit activites in blockchain transaction networks.
+
+## Data
+We conducted our experiments on a public dataset containing data about phishers in ethereum transactions.
+
+## Acknowledgement
+We would like to thank the authors of [SigTran](https://github.com/fpour/SigTran), [RiWalk](https://github.com/maxuewei2/RiWalk) and [node2vec](https://github.com/aditya-grover/node2vec) for providing open access to the implementation of their methods.
